@@ -5,6 +5,10 @@ Logical & Physical Security
 
 # Software Security
 
+* Drawback, 退版 :
+
+ it assumes that a static set of requirements captures before design and coding phases begin. Before latter test begin, error may not be shown due to pre-fix. 
+
 # Server Security
 
 # Hardware Security
