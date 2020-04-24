@@ -45,7 +45,7 @@ Logical & Physical Security
        
        * weakness:
        
-           it suffer "scope creep", team may lost end goal/
+           it suffer "scope creep", team may lost end goal.
   
   * agile, 敏捷式
   
