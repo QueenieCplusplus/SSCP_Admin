@@ -7,13 +7,13 @@ Logical & Physical Security
 
 * Drawback, 退版 :
 
+  * regulatory & ops changes
+  
+  * new threats impact present automated process
+
   * error cause
 
  it assumes that a static set of requirements captures before design and coding phases begin. Before latter test begin, error may not be shown due to pre-fix. 
- 
-   * regulatory & ops changes
-  
-   * new threats impact present automated process
 
 # Server Security
 
@@ -28,3 +28,12 @@ Logical & Physical Security
 * Maintenance, 系統維護(除錯抑或是版本升級):
 
   patches are released to fix issues || due to version update in Client Env.
+
+
+
+
+
+
+
+
+
