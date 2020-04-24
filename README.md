@@ -31,9 +31,13 @@ Logical & Physical Security
 
   * waterfall model, 瀑布式
   
+      * spiral model, 螺旋式
+      
+          add Plan-Do-Check-Act to each stage in waterfall.
+  
   * component dev & reuse, 安卓使用此方式
   
-  * spiral model, 螺旋式
+
   
   * rapid model, 極限開發
   
