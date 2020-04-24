@@ -31,6 +31,8 @@ Logical & Physical Security
 
 * Deployment of Sys, 系統部署發行）:
 
+  before releasing to end user (to the final acceptance test phase), there are QA team performs quality test.
+
   app or sys is released in Client Env || in the Market.
 
 * Maintenance, 系統維護(除錯抑或是版本升級):
