@@ -48,7 +48,7 @@ Logical & Physical Security
 
 * A7 Missing Funtion Level Access Control
 
-* A8 CFRF:
+* A8 CSRF:
 
      hacker forces a logged-on victim's browser to send a http request (http header includes session cookies, sensitive identities) to web app.
 
