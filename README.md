@@ -77,6 +77,18 @@ Logical & Physical Security
   
 # Data Securitry
 
+  * Main methods:
+  
+     - [x] Deduplicate, 去重複化
+     
+     - [x] Scrubble, 去識別化
+     
+     - [x] Encryption, 加密
+     
+        * for file/ folder
+        
+        * for disk
+
   * IRM, Information Rights Mgmt, 數位版權保護
 
   * Data Leak Control
