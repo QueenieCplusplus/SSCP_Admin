@@ -37,9 +37,15 @@ Logical & Physical Security
   
   * component dev & reuse, 安卓使用此方式
   
-
-  
   * rapid model, 極限開發
+  
+       * strength:
+       
+           it  welcomes user to be involved in project with screenflow and feedbacks to and fro with developers. in this way, it has high error detection rate and bypass the extensive retrofit and regression (回歸回復) test.
+       
+       * weakness:
+       
+           it suffer "scope creep", team may lost end goal/
   
   * agile, 敏捷式
   
