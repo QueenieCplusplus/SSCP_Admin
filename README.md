@@ -49,6 +49,8 @@ Logical & Physical Security
   
   * agile (iterative model), 敏捷式
   
+       (later on...)
+  
   
 # Network Security
 
@@ -74,6 +76,20 @@ Logical & Physical Security
   
   
 # Data Securitry
+
+  * Data Leak Control
+  
+      * Data Discovery, 資料盤點
+      
+      * Labeling, 標示
+      
+      * Policy, 制定規範
+      
+      * Content Detection/Monitor, 內容監控
+      
+      * Traffic Block, 使竊盜者無法執行行為
+      
+      * Report, 報告
 
 # Server Security
 
