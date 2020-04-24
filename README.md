@@ -17,6 +17,8 @@ Logical & Physical Security
 
 * Retrofit, 更新版本 :
 
+  " the later the requirements into app, the more disruptive they are."
+
   if the mgmt process is performed, then it may reduce the outcome from:
   
   * Delay, 延遲交付
