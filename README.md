@@ -26,7 +26,20 @@ Logical & Physical Security
   * Cost overrun, 衍生成本
   
   * Disruption, 中途破壞
+  
+* Sys Apps Lifecycle, 系統建置的生命週期:
 
+  * waterfall model, 瀑布式
+  
+  * component dev & reuse, 安卓使用此方式
+  
+  * spiral model, 螺旋式
+  
+  * rapid model, 極限開發
+  
+  * agile, 敏捷式
+  
+  
 # Network Security
 
 * Deployment of Sys, 系統部署發行）:
