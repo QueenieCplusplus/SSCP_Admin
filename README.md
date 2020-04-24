@@ -10,7 +10,7 @@ Logical & Physical Security
    
    (2) OS
    
-   (3) LDAP   
+   (3) LDAP...   
 
 * A2 Auth (session) Broken:
 
