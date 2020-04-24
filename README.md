@@ -168,7 +168,7 @@ Logical & Physical Security
 
 # Server Security
 
-# Hardware Security
+# Hardware (Devices) Security
 
 
 
