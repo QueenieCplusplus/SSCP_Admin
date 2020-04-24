@@ -15,6 +15,16 @@ Logical & Physical Security
 
  it assumes that a static set of requirements captures before design and coding phases begin. Before latter test begin, error may not be shown due to pre-fix. 
 
+* Retrofit, 更新版本 :
+
+  if the mgmt process is performed, then it may reduce the outcome from:
+  
+  * Delay, 延遲交付
+  
+  * Cost overrun, 衍生成本
+  
+  * Disruption, 中途破壞
+
 # Network Security
 
 * Deployment of Sys, 系統部署發行）:
