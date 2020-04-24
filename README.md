@@ -3,7 +3,7 @@
 Logical & Physical Security
 
 
-# Sys Software Security
+# System Software Security
 
 * Drawback, 退版 :
 
