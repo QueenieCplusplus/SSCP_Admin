@@ -41,6 +41,12 @@ Logical & Physical Security
 
 * Maintenance, 系統維護(除錯抑或是版本升級):
 
+   * discover bugs
+   
+   * discover vulnerability
+   
+   * changes in technical env
+
   patches are released to fix issues || due to version update in Client Env.
   
   
