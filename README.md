@@ -4,16 +4,15 @@ Logical & Physical Security
 
 # OWASP top 10, (Open Web App Security Project)
 
-*A1 Injection Flaws :
+* A1 Injection Flaws :
 
    (1) SQL
    
    (2) OS
    
-   (3) LDAP
-      
+   (3) LDAP   
 
-*A2 Auth (session) Broken:
+* A2 Auth (session) Broken:
 
    (1) Session Token
    
@@ -21,15 +20,15 @@ Logical & Physical Security
    
    (3) User Identies
 
-*A3 XSS:
+* A3 XSS:
 
    hacker executes scripts in victim's browser due to error in validation & escaping.
 
-*A4 Direct Obj:
+* A4 Direct Obj:
 
    to expose user to ref to file, directory, db key. Without ACL!
 
-*A5 Security Misconfig:
+* A5 Security Misconfig:
     
    Secure Setting shall be defined and implemented, and maintained.
    
@@ -45,15 +44,15 @@ Logical & Physical Security
    
    (6) platform
 
-*A6
+* A6 Sensitive Data Exposure
 
-*A7
+* A7
 
-*A8
+* A8
 
-*A9
+* A9
 
-*A10
+* A10
 
 
 # System Software Security
