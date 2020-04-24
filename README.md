@@ -17,7 +17,7 @@ Logical & Physical Security
 
 # Network Security
 
-* Deployment of Sys, 系統部署（發行）:
+* Deployment of Sys, 系統部署發行）:
 
   app or sys is released in Client Env || in the Market.
 
