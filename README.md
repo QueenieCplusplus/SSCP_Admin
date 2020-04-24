@@ -7,7 +7,13 @@ Logical & Physical Security
 
 * Drawback, 退版 :
 
+  * error cause
+
  it assumes that a static set of requirements captures before design and coding phases begin. Before latter test begin, error may not be shown due to pre-fix. 
+ 
+  * regulatory & ops changes
+  
+  * new threats impact present automated process
 
 # Server Security
 
