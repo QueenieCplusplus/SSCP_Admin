@@ -46,14 +46,15 @@ Logical & Physical Security
 
 * A6 Sensitive Data Exposure
 
-* A7
+* A7 Missing Funtion Level Access Control
 
-* A8
+* A8 CFRF:
+
+     hacker forces a logged-on victim's browser to send a http request (http header includes session cookies, sensitive identities) to web app.
 
 * A9
 
 * A10
-
 
 # System Software Security
 
