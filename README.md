@@ -52,9 +52,17 @@ Logical & Physical Security
 
      hacker forces a logged-on victim's browser to send a http request (http header includes session cookies, sensitive identities) to web app.
 
-* A9
+* A9 Vulnerable Components:
 
-* A10
+    (1) Libs
+    
+    (2) Frameworks
+    
+    (3) Modules
+
+* A10 Unvalidate Redirect & Forward:
+
+     Man-in-Middle may redirect and forward user to phishing || malware website or access to unauth webpage...
 
 # System Software Security
 
