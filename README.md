@@ -47,7 +47,7 @@ Logical & Physical Security
        
            it suffer "scope creep", team may lost end goal.
   
-  * agile, 敏捷式
+  * agile (iterative model), 敏捷式
   
   
 # Network Security
