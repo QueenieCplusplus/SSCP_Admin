@@ -77,6 +77,8 @@ Logical & Physical Security
   
 # Data Securitry
 
+  * IRM, Information Rights Mgmt, 數位版權保護
+
   * Data Leak Control
   
       * Data Discovery, 資料盤點
